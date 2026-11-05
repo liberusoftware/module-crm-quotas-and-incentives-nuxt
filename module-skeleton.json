@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-quotas-and-incentives-nuxt",
+  "capabilityKey": "liberusoftware/module-crm-quotas-and-incentives",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-crm-quotas-and-incentives-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/quotas-and-incentives.md",
+  "presentationPlan": "projects/crm/nuxt/quotas-and-incentives.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
